@@ -17,7 +17,7 @@ function Hero() {
 
           <p className="max-w-md leading-7">
             Welcome to PetCondo, the ultimate destination for pet lovers! Get
-            all your pet's needs, from grooming to medical records, to
+            all your pet&apos;s needs, from grooming to medical records, to
             interacting with fellow pet lovers in one place
           </p>
 
