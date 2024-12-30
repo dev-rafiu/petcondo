@@ -44,7 +44,7 @@ export default function Header() {
                 href={route.href}
                 className={cn(
                   'text-base font-normal text-[#737373]',
-                  pathname == route.href && 'font-bold',
+                  pathname == route.href && 'font-bold text-black',
                 )}
               >
                 {route.title}

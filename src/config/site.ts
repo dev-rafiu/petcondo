@@ -1,5 +1,7 @@
 const DEPLOYED_URL = process.env.NEXT_PUBLIC_URL;
 
+console.log(DEPLOYED_URL);
+
 export const siteConfig = {
   name: 'PetCondo',
   description: 'Everything you need to care for your pet, all in one app',

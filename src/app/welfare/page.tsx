@@ -12,7 +12,7 @@ function Welfare() {
     <section
       className={`${plusJakartaSans.className} container bg-white py-16`}
     >
-      <div className="container grid gap-7 lg:grid-cols-2">
+      <div className="grid gap-7 lg:grid-cols-2">
         {/* image grid */}
         <div className="grid grid-cols-2 gap-4">
           <div className="relative h-[12.75rem] w-full">
