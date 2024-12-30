@@ -20,6 +20,7 @@ function HowItWorks() {
         />
       </div>
 
+      {/* text content */}
       <div className="space-y-4 self-center">
         <header>
           <h2 className="max-w-md leading-8">
