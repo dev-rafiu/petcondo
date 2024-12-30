@@ -14,7 +14,6 @@ export const metadata: Metadata = {
     template: `%s | ${siteConfig.name}`,
   },
   description: siteConfig.description,
-  keywords: [],
   robots: {
     follow: true,
     index: true,
