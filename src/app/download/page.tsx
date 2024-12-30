@@ -79,9 +79,9 @@ function DownloadApp() {
 
         {/* download links */}
         <div className="flex items-center gap-4">
-          <a href="#" className="bg-black">
+          <a href="#">
             <Image
-              src="/playstore.png"
+              src="/images/hero/playstore.jpg"
               className="rounded-md"
               alt="Playstore link"
               width={120}
@@ -89,9 +89,9 @@ function DownloadApp() {
             />
           </a>
 
-          <a href="#" className="overflow-hidden bg-black">
+          <a href="#">
             <Image
-              src="/appstore.png"
+              src="/images/hero/appstore.jpg"
               className="rounded-md"
               alt="Appstore link"
               width={120}
